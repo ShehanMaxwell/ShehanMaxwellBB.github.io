@@ -1,0 +1,28 @@
+.text-center{
+	 text-transform: uppercase;
+	 font-family: 'Montserrat', sans-serif;
+	 color: white;
+}
+.btn-danger{
+		font-weight: 700;
+  		text-transform: uppercase;
+  		border-radius: 300px;
+  		font-family: 'Montserrat', sans-serif;
+  		 
+  		margin-left:720px;
+  		margin-top:500px;  
+		
+	
+}
+
+
+body{
+
+	background-image:url(backg.jpg);
+	background-size:cover;
+	margin-top: 90px;
+	
+	width: 100%;
+  	
+
+}
